@@ -1,0 +1,9 @@
+backend/node_modules
+cdn-server/node_modules
+frontend-dashboard/node_modules
+streaming-worker/node_modules
+backend/disc
+cdn-server/disc
+frontend-dashboard/disc
+streaming-worker/disc
+**/.env
